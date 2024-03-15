@@ -1,0 +1,4 @@
+name = "GeneticAlgorithms"
+uuid = "ec1c8a2a-e78e-4b6c-8652-724dd23a7201"
+authors = ["Mehmet Hakan Satman <mhsatman@gmail.com>"]
+version = "0.1.0"
