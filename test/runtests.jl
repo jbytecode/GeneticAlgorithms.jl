@@ -1,5 +1,6 @@
 using Test, GeneticAlgorithms
+import  GeneticAlgorithms.BinaryGA as BinGA 
 
-@testset "Initial" begin
-	@test 1 == 1
-end
+include("testbinaryga.jl")
+
+
